@@ -1,4 +1,5 @@
 # Sample Hardhat Project
+I was able to acomplish the goals by being able to interact with the winners contract using deployed contract which enables the msg.sender to be different from the origin.
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
